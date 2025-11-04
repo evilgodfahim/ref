@@ -1,0 +1,6 @@
+https://thediplomat.com/feed/
+https://www.foreignaffairs.com/rss.xml
+https://foreignpolicy.com/feed/
+https://evilgodfahim.github.io/ps/combined.xml
+https://evilgodfahim.github.io/eco/combined.xml
+https://www.eiu.com/n/feed/"
