@@ -4,3 +4,4 @@ https://foreignpolicy.com/feed/
 https://evilgodfahim.github.io/ps/combined.xml
 https://evilgodfahim.github.io/eco/combined.xml
 https://www.lowyinstitute.org/the-interpreter/rss.xml
+https://geopoliticalfutures.com/feed/
