@@ -6,7 +6,7 @@ INPUT_FILE = "p.txt"
 OUTPUT_FILE = "titles.txt"
 LAST_IDS_FILE = "last_ids.json"
 MAX_TITLES_PER_FEED = 500
-MAX_TOTAL_TITLES = 2000  # Cap for titles.txt
+MAX_TOTAL_TITLES = 5000  # Cap for titles.txt
 
 # Load last seen IDs per feed
 if os.path.exists(LAST_IDS_FILE):
