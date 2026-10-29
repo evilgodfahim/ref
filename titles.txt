@@ -1,54 +1,3 @@
-Checks and Balance newsletter: What America can learn from New York’s resilience after 9/11
-Wanted: new business, finance and economics interns
-Why Indians are unhappy about 7.8% economic growth
-Women lead brutal lives in Colombia’s illegal gold-mining regions
-In search of the least wrong map
-The Houthis’ shock advance in Yemen gives Iran new leverage
-How an oil-supply crisis could bring about an investment boom
-Should Anthropic press pause on a potential $2trn IPO?
-Sweden’s left seems to have eked out a narrow victory
-China’s tutoring crackdown has created a black market
-The War Room newsletter: Russia is hunting Ukraine’s trains
-South Africa is at risk of becoming a mafia state
-A new device helps severely paralysed patients communicate
-France’s centre has one question: who can beat Marine Le Pen?
-Developers are learning to love Zohran Mamdani
-China would face a “hellscape” in a war over Taiwan
-Scott Bessent should stop blaming the bond market
-In Morocco, scandal is weakening the king’s shaky rule
-What Africa’s biggest IPO can do for its stock markets
-China is not ready for a post-American world
-Agreeing to make AI safer may be impossible
-An electoral result that helps Japan’s defence buildup
-How House Republicans might fend off defeat
-Bartleby newsletter: Meetings are broccoli
-Nannying for the ultra-rich is increasingly demanding—and lucrative
-Sea cucumbers may help protect coral reefs
-Russia’s sham election is descending into farce
-Olympiad Man has displaced Davos Man
-Soaring bond yields, gaping deficits and towering debts: what could go wrong?
-Artificial intelligence now beats some of the best human forecasters
-Researchers have created a mouse with a partly human brain
-There is too little money in British politics, not too much
-China’s new exit rules stoke fears of ever-tighter border controls
-The debate over AI has taken over Washington
-Deep mutual distrust will scupper US-China co-operation on AI
-Can the AI arms race be stopped?
-Markets are waking up to the rich world’s reckless borrowing
-Ricardo Reis was too frank for the IMF
-The trickle-down economics of the AI boom
-To keep out “infiltrators”, India is trapping its own citizens
-The GDP-per-person slowdown threatens global living standards
-What Donald Trump understands about character in public life
-Brazil’s gangsters: less murder, more money
-Jamaica’s churches have become climate activists
-Iran’s allies now menace a second maritime choke point
-The maverick cop disrupting South African policing
-A Turkish visit to Syria has Israel worried
-Alternatives to milk are losing moomentum
-At last, India is getting serious about selling state assets
-Sleep like a pro
-The AfD could stumble in another state election
 Turkey defies European orders to free political prisoners
 Why Europe’s populists don’t criticise China
 Politics
@@ -1998,3 +1947,54 @@ Defense Business Brief: Tech at the edge; PACFLEET talks cyber; and more
 Digital Disguise: The Scourge of AIS Spoofing
 From Human Proxies to Autonomous Adaptation: The Next Phase of Russia's Hybrid Activity
 The Kids are Alright: U.S. Soft Power, Aid, and Youth in Africa
+Russian Help Would Make North Korea’s Missile-test Flurry Worse News
+A Judicial Challenge to India’s Paternalistic Anti-trafficking Framework
+As North Korea’s Loudspeaker Broadcasts Loom, South Korea Has No Good Options
+What a China-US AI Safety Channel Needs
+‘Made in Vietnam’ Is Harder To Prove Than It Looks
+Japan Advances Deep-Sea Mining as Support for a Moratorium Grows
+The Lasting Price of Mbappé’s Apology to China
+(Latin) America’s Pastime
+A New War on Iran Would Deal a Death Blow to U.S. Leadership in the Mideast
+The EU and Canada Struggle to Define Their Relationship
+How Big of a Threat Are the Houthis?
+A Wealth Tax Would Harm California
+Can Bond Vigilantes Prevent the Next Debt Crisis?
+The New Geopolitics of Mining
+The countries making a fortune from the US-China rivalry
+To understand African politics, just listen to the music
+America’s decisive voters are its most recent arrivals
+The Americans changing politics for the better
+The never-ending absurdity of global oil markets
+Narendra Modi and the battle for India
+What to make of 25 years of Narendra Modi
+Christine Lagarde departs at a moment of peril
+Binyamin Netanyahu has not won, but nor has he lost
+Donald Trump’s tantrums are an opportunity for Spain
+Saudi Arabia wants Iran to call off the Houthis and make a deal with America
+Senegal tries to teach more children in their first language
+Seven hot new sources of leadership inspiration
+The world’s biggest maker of spectacles faces a crisis
+Why it’s a bad time to be a rat-killer
+Serbia’s students found a new way to topple a strongman
+Poland is growing less religious, but not less right-wing
+Europe’s biggest steelworks may be nearing its end
+The Kremlin is shutting down Russia’s last free newspaper
+Europe is gearing up for a future war Russia is already waging
+Politics
+Business
+Cartoon: Israel’s election
+The midterms could reshape American politics far beyond Congress
+Democrats are rediscovering what an appealing politics of progress looks like
+China’s investment in transport infrastructure has peaked
+China loves to rank its cities. The government wants it to stop
+A tiny Pacific country rolls out universal basic income
+Meet the millennial centrist shaking up New Zealand’s election
+The North Aral Sea is expanding after decades of shrinkage
+Let China copy American AI
+Live Discussion: Geopolitics and Politics
+Can Elections Change Geopolitics?
+Can Elections Change Geopolitics?
+Can inertial navigation make ground-robot swarms real?
+Army pilots are trying virtual reality to stay more alert in flight
+Six military freezers went bad in August. Was it a cyber attack?
